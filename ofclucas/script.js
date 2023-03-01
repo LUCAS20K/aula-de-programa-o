@@ -15,12 +15,14 @@
 // }
 
 const Black=90
-const White=178
-const Blue=400
-if(Blue===90){
-console.log(Blue=90)
-}else{
-console.log(Blue||Black)
-}else{
-console.log(Blue||White)
+const White=4000
+const Blue=1000
+if(Black>White && Black>Blue){
+    console.log(Black)
+}
+else if(White>Blue){
+    console.log(4000)
+}
+else if(Blue>Black){
+    console.log("Blue é maior que Black")
 }
