@@ -14,15 +14,25 @@
 // console.log(Mateus)
 // }
 
-const Black=90
-const White=4000
-const Blue=1000
-if(Black>White && Black>Blue){
-    console.log(Black)
-}
-else if(White>Blue){
-    console.log(4000)
-}
-else if(Blue>Black){
-    console.log("Blue é maior que Black")
-}
+// const black=180000
+// const white=4000
+// const blue=9000
+// if(black>white && black>blue){
+//     console.log(black)
+// }
+// else if(white>blue){
+//     console.log(white)
+// }
+// else if(blue>black){
+//     console.log(blue)
+// }
+// const numero = 20
+// if (numero > 0 ) {
+//  console.log("postivo");   
+// }
+// else if (numero < 0 ){
+//     console.log("negativo");
+// }
+// else{ 
+// console.log("zero");
+// }
